@@ -3,11 +3,11 @@ def display_board
   cell = "   "
   line =  cell + "|" + cell + "|" + cell
   sep_line = "-----------"
-  
+
   puts line
   puts sep_line
   puts line
   puts sep_line
   puts line
 end
-
+display_board
